@@ -6,7 +6,7 @@
   <h3 font-size="20" align="center">ML Developer & 3D Graphics Enthusiast based in India.</h3>
   
   
-  - 🌱 I’m currently learning **to make machines see 👀** <img align="right" style="width:16rem; height:auto" src="https://i0.wp.com/i.giphy.com/media/nGMnDqebzDcfm/giphy-downsized.gif?w=770&ssl=1"/>
+  - 🌱 I’m currently working **to make machines see 👀** <img align="right" style="width:16rem; height:auto" src="https://i0.wp.com/i.giphy.com/media/nGMnDqebzDcfm/giphy-downsized.gif?w=770&ssl=1"/>
   
   - 🤝 I’m looking for help with **Machine Learning**
   
