@@ -8,9 +8,9 @@
   
   - 🌱 I’m currently working **to make machines see 👀** <img align="right" style="width:16rem; height:auto" src="https://i0.wp.com/i.giphy.com/media/nGMnDqebzDcfm/giphy-downsized.gif?w=770&ssl=1"/>
   
-  - 🤝 I’m looking for help with **Machine Learning**
+  - 🤝 I’m available to work or help out with **Machine Learning**
   
-  - 👨‍💻 All of my projects are available [@shubhaankargupta](https://github.com/shubhaankargupta)
+  - 👨‍💻 Some of my projects are available at [@shubhaankargupta](https://github.com/shubhaankargupta)
   
   - 💬 Ask me about **Politics and Trivia**
   
