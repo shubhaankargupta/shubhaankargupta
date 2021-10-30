@@ -10,7 +10,7 @@
   
   - 🤝 I’m looking for help with **Machine Learning**
   
-  - 👨‍💻 All of my projects are available [@shubhaankargupta](github.com/shubhaankargupta)
+  - 👨‍💻 All of my projects are available [@shubhaankargupta](https://github.com/shubhaankargupta)
   
   - 💬 Ask me about **Politics and Trivia**
   
