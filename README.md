@@ -22,7 +22,3 @@
 
   ----
   
-   
- I’m a member of my school’s [Quizzing Society](https://qcdpsrkp.xyz) and [Tech Club](https://exunclan.com), Exun Clan.
- More at [my website](https://shubhaankar.me)
-  
