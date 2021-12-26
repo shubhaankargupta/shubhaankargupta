@@ -6,7 +6,6 @@
   <h3 font-size="20" align="center">ML Developer & 3D Graphics Enthusiast based in India.</h3>
   
   
-  - 🌱 I’m currently working **to make machines see 👀** <img align="right" style="width:16rem; height:auto" src="https://logimp.files.wordpress.com/2019/01/viral-p-2.gif"/>
   
   - 🤝 I’m available to work or help out with **Machine Learning**
   
@@ -17,8 +16,6 @@
   - ⚡ Fun fact **Burgers are a religion, not a food.**
   
   
-  
-  
-
+  - More at my [website](https://www.shubhaankar.me)
   ----
   
